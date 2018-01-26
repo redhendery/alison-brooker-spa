@@ -4,8 +4,18 @@ class Contact extends Component {
   render() {
     return (
       <div>
-        <h2>GOT QUESTIONS?</h2>
-        <p>Please call us or email.</p>
+        <h2>Please contact us for enquiries and bookings.</h2>
+        <p>We are located in Surrey Hills, Victoria.</p>
+        <p><i class="fa fa-phone fa-2x" aria-hidden="true">
+          <span itemProp="telephone"><a href="tel:+61398302484">
+            03-9830-2484
+          </a></span>
+        </i></p>
+        <p><i class="fa fa-envelope-o fa-2x" aria-hidden="true">
+          <span itemProp="email"><a href="mailto:info@quantumns.com.au">
+            Email Us
+          </a></span>
+        </i></p>
       </div>
     );
   }

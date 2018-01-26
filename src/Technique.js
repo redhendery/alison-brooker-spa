@@ -5,15 +5,15 @@ class Technique extends Component {
     return (
       <div>
         <h2>Technique</h2>
-        <p>Mauris sem velit, vehicula eget sodales vitae,
-        rhoncus eget sapien:</p>
-        <ol>
-          <li>Nulla pulvinar diam</li>
-          <li>Facilisis bibendum</li>
-          <li>Vestibulum vulputate</li>
-          <li>Eget erat</li>
-          <li>Id porttitor</li>
-        </ol>
+        <p>Network Spinal (NS) and Somatic Respiratory Integration (SRI) are two techniques 
+        developed by Dr Donald Epstein (Chiropractor) over the last 30 years. These are the primary 
+        techniques offered at Quantum Network Spinal. Both bring increased cortical (brain) 
+        awareness and greater communication between the different subsystems of the body 
+        (passive, active and emotional). Overall increased coherence within the system is both 
+        observed and experienced. NS utilises specific light touch mainly around the areas where 
+        the meningeal coverings of the spinal cord anchor into the spinal column. 
+        SRI connects breath with touch on the body and movement. 
+        Both weave together to advance people through the three Levels of care.</p>
       </div>
     );
   }

@@ -1,5 +1,5 @@
 body {
-  background-color: #FFCC00;
+  background-color: #1FB89D;
   padding: 20px;
   margin: 0;
 }
@@ -34,6 +34,16 @@ ul.header li a {
   margin-bottom: 10px;
 }
 
+/* Active Link Colour */
 .active {
-  background-color: #0099FF;
+  background-color: #C61A7A;
+}
+
+/* Font Awesome Spacing */
+.fa-phone:before {
+  padding-right: 25px;
+}
+
+.fa-envelope-o:before {
+  padding-right: 17px;
 }
