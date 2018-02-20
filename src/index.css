@@ -47,3 +47,8 @@ ul.header li a {
 .fa-envelope-o:before {
   padding-right: 17px;
 }
+
+h4 {
+  font-style: italic;
+  color: blue;
+}
