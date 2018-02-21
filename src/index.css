@@ -48,7 +48,8 @@ ul.header li a {
   padding-right: 17px;
 }
 
-h4 {
-  font-style: italic;
-  color: blue;
+/*  Logo sizing */
+#image_div img {
+  width: 100%;
+  height: auto;
 }
