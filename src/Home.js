@@ -4,7 +4,18 @@ class Home extends Component {
   render() {
     return (
       <div id="image_div">
-      <h3>Dr Alison Brooker Chiropractor</h3>
+        <h3>Network Spinal and Somato Respiratory Integration</h3>
+        <p>
+          Network Spinal (NS) and Somato Respiratory Integration (SRI) are two techniques
+          developed by Dr Donald Epstein (Chiropractor) over the last 30 years. Both bring increased
+          cortical (brain) awareness and maximise communication between the subsystems of the
+          body. Greater coherence is observed and experienced. NS Chiropractic utilises specific light
+          touch mainly around the areas where the meningeal coverings of the spinal cord anchor into
+          the spinal column. SRI (literally ‘body breath integration’) connects breath with touch on the
+          body and movement. Both techniques weave together to advance people through the three
+          Levels of Care of Network Spinal Chiropractic.
+        </p>
+        <h3>Dr Alison Brooker Chiropractor</h3>
         <p>
           Alison first considered studying Chiropractic in her final year of high school. Instead she ended up
           studying Podiatry. Some years later it was no longer enough. So, when she asked herself “if there
@@ -17,7 +28,7 @@ class Home extends Component {
           work Alison loves hanging out with her nieces, nephews, great nieces and great nephews (we all
           LOVE waterslides!), playing table tennis and walking her 2 Labradoodles (Max and Simba).
         </p>
-        <img src="/logo.png"></img>
+        <img src="/logo.png" alt="Quantum Network Spinal Logo"></img>
       </div>
     );
   }
