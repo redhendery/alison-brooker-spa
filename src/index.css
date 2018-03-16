@@ -30,7 +30,7 @@ ul.header li a {
 
 .content {
   background-color: #FFF;
-  padding: 20px;
+  padding: 30px 30px 30px 30px;
 }
 
 .content h2 {
@@ -57,10 +57,22 @@ ul.header li a {
   padding-right: 17px;
 }
 
-/*  Logo sizing */
-#image_div img {
-  width: 100%;
+/* img sizing */
+.img1 {
+  float: left;
+  width: 35%;
   height: auto;
+}
+
+.img2 {
+  float: right;
+  width: 20%;
+  height: auto;
+}
+
+.clearfix {
+  overflow: auto;
+  text-align: justify;
 }
 
 h1, h3 {

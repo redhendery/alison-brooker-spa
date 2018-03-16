@@ -25,30 +25,13 @@ class Technique extends Component {
         </p>
         <h4>Why would I do it?</h4>
         <p>
-          At Quantum Network Spinal our overall aim is to develop greater coherence and
-          communication within and between the nervous system, the musculoskeletal system and
-          the emotional system. This is experienced by you as a higher expression of your authentic
-          self.
+          NS care is all about what you are moving toward, what you want more of. If you no longer had pain what would
+          you be able to do/think/achieve? Who would you be? What is life calling you to? What would life be like if you
+          could live a higher version of your authentic self effortlessly? Quantum Network Spinal Chiropractic -
+          New strategies. Different outcomes!
         </p>
-        <h4>Where does pain fit into this picture?</h4>
         <p>
-          There are a number of different types of pain we all experience including
-          <ul>
-            <li>Physical pain</li>
-            <li>Pain of wanting to avoid pain</li>
-            <li>Pain of not being able to manage our circumstances</li>
-            <li>Pain of not making progress fast enough</li>
-            <li>Pain of not knowing, or not giving, our gifts because we made our life too small</li>
-          </ul>
-          Pain is often the motivator for someone to seek out healthcare. Pain has a purpose. It is
-          meant to interrupt your life. Something is breaking down physically and/or emotionally. It is
-          a signal that there is not enough energy available within the system to self-organise that
-          area. Pain is an invitation to change (behaviour, perception and/or structure). NS care is all
-          about what you are moving toward, what you want more of. If you no longer had this pain
-          what would you be able to do/think/achieve? Who would you be? What is life calling you
-          to? What would life be like if you could live a higher version of your authentic self
-          effortlessly?
-          Quantum Network Spinal Chiropractic - New strategies. Different outcomes!
+          Phone 03 9830 2484 to schedule an Initial Consultation and neurostructural assessment.
         </p>
         <h1>Somato Respiratory Integration (SRI)</h1>
         <center><small>The following excerpts are adapted from “Somato Respiratory Integration Workbook” Donald M. Epstein 2009</small></center>
