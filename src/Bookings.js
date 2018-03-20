@@ -9,7 +9,7 @@ class Bookings extends Component {
           We are located in Surrey Hills, Victoria. If you have any questions please <a href="#/contact">contact us</a>.
         </p>
         <p>Our hours are as follows:</p>
-        <p>Monday: 3:30pm - 6:30m</p>
+        <p>Monday: 3:00pm - 6:00m</p>
         <p>Tuesday: 10am - 12pm</p>
         <p>Thursday: 4pm - 7pm</p>
         <p>Friday: 11am - 2pm</p>

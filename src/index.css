@@ -62,12 +62,14 @@ ul.header li a {
   float: left;
   width: 35%;
   height: auto;
+  padding-right: 50px;
 }
 
 .img2 {
   float: right;
-  width: 20%;
+  width: 12%;
   height: auto;
+  padding-left: 50px;
 }
 
 .clearfix {
