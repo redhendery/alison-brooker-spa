@@ -10,9 +10,9 @@ class Bookings extends Component {
         </p>
         <p>Our hours are as follows:</p>
         <p>Monday: 3:00pm - 6:00m</p>
-        <p>Tuesday: 10am - 12pm</p>
-        <p>Thursday: 4pm - 7pm</p>
-        <p>Friday: 11am - 2pm</p>
+        <p>Tuesday: 4:00pm - 7:00pm</p>
+        <p>Thursday: 9:30am – 11:30am & 4:00pm - 7:00pm</p>
+        <p>Friday: 9:30am – 11:30am</p>
         <iframe src='https://ali8un.cliniko.com/bookings?business_id=53165&practitioner_id=79869&appointment_type_id=235132&embedded=true'
         frameborder='0' scrolling='auto' width='100%' height='1000'></iframe>
       </div>
